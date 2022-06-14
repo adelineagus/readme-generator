@@ -1,11 +1,11 @@
-# readme generator
+# readme-generator
 
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+  ![badge](https://img.shields.io/badge/license-Apache-brightgreen.svg)
 
-  ##Description
-  generate readme
+  ## Description
+  generate readme based on user's answers
 
-  ##Table of Contents
+  ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
@@ -13,21 +13,21 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ##Installation
-  npm 
+  ## Installation
+  use npm
 
-  ##Usage
-  enter prompts
+  ## Usage
+  answer prompts 
 
-  ##Credits
+  ## Credits
   Collaborators: adeline
-  How to contribute: contact me
+  How to contribute: contact collaborators
 
   ##License
-    MIT: https://opensource.org/licenses/MIT
+    Apache: https://opensource.org/licenses/Apache-2.0
 
-  ##Tests
-  no tests
+  ## Tests
+  N/A
 
-  ##Questions
+  ## Questions
   To see more projects, visit my github page at https://github.com/adelineagus. If you have any questions regarding this project, feel free to contact me at adelineaguspranoto@gmail.com.
