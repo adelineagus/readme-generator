@@ -1,6 +1,6 @@
 # readme-generator
 
-  ![badge](https://img.shields.io/badge/license-Apache-brightgreen.svg)
+  ![badge](https://img.shields.io/badge/license-EPL-red.svg)
 
   ## Description
   generate readme based on user's answers
@@ -14,17 +14,17 @@
   - [Questions](#questions)
 
   ## Installation
-  use npm
+  npm
 
   ## Usage
-  answer prompts 
+  answer prompts
 
   ## Credits
   Collaborators: adeline
-  How to contribute: contact collaborators
+  How to contribute: contact collaborator
 
-  ##License
-    Apache: https://opensource.org/licenses/Apache-2.0
+  ## License
+    EPL: https://opensource.org/licenses/EPL-2.0
 
   ## Tests
   N/A

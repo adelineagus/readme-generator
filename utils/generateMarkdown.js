@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
   if (license==='N/A'){
     return "";
   }else{
-    licenseBadge='![badge](https://img.shields.io/badge/license-'+ license + '-brightgreen.svg)'
+    licenseBadge='![badge](https://img.shields.io/badge/license-'+ license + '-red.svg)'
     return licenseBadge;
   }
 }
@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
     return "";
   }else{
     licensePage= 
-    `##License
+    `## License
     ${license}: ${renderLicenseLink(license)}`
     return licensePage;
   }
