@@ -33,13 +33,15 @@
   ## Usage
   In terminal, run node index and answers questions from command line
 
+  Screenshot: [link](./images/Readme%20Terminal.png)
+
   Walkthrough video: https://drive.google.com/file/d/1U-8c0WpzwryJqOahy1edCngPE_XTFO9b/view
   
-  Table of contents functionality: 
+  Table of contents functionality: https://drive.google.com/file/d/15VQgxRz2ykSgTdCbYk1Db9vD-bdpKUOG/view
 
   ## Credits
   Collaborators: Adeline Aguspranoto
-  
+
   How to contribute: please email collabolators
 
   ## License
