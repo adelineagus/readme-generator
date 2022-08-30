@@ -37,7 +37,7 @@
 
   Walkthrough video: https://drive.google.com/file/d/1U-8c0WpzwryJqOahy1edCngPE_XTFO9b/view
   
-  Table of contents functionality: https://drive.google.com/file/d/15VQgxRz2ykSgTdCbYk1Db9vD-bdpKUOG/view
+  Table of contents functionality: https://drive.google.com/file/d/1atooAZnP37X5i_NQRe8OeqKqP8ziuWXP/view
 
   ## Credits
   Collaborators: Adeline Aguspranoto
