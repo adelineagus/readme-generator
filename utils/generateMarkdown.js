@@ -65,6 +65,7 @@ function generateMarkdown(data) {
 
   ## Credits
   Collaborators: ${data.collaborators}
+  
   How to contribute: ${data.howtocontribute}
 
   ${renderLicenseSection(data.license)}

@@ -34,10 +34,12 @@
   In terminal, run node index and answers questions from command line
 
   Walkthrough video: https://drive.google.com/file/d/1U-8c0WpzwryJqOahy1edCngPE_XTFO9b/view
+  
   Table of contents functionality: 
 
   ## Credits
   Collaborators: Adeline Aguspranoto
+  
   How to contribute: please email collabolators
 
   ## License
